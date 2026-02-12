@@ -1,9 +1,8 @@
-
 --- Simple Gravity gun ---
 -- [[ Version v.04 ]]
 -- by fo43123 --
 
-local me = passadas
+local me = game.Players.LocalPlayer
 local char = me.Character
 local hum = char:FindFirstChild('Humanoid')
 local hd = char:FindFirstChild('Head')
