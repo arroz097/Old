@@ -1,2 +1,2 @@
-# the beginning
-when i were learning scriptinfg for the first time
+# The beginning
+when i were learning scripting for the first time
