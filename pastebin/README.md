@@ -1,3 +1,0 @@
-# Pastebin
-
-year 2019, when i began to made more elabored scripts and started uploading on Pastebin, you can find link <a href="https://pastebin.com/u/Liu-2" target="_blank">here</a>
