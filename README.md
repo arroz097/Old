@@ -1,5 +1,5 @@
 # Old projects / scripts
-scripts for void scripts builder (roblox) when i were learning and exploring lua/luau possibilities.
+scripts for Void Script Builder (Roblox) when i was learning and exploring lua possibilities for fun
 
 #### First scripts (2017/2018)
 - my first attempts with scripts, learned all by myself and using certain scripts as reference
@@ -8,4 +8,4 @@ scripts for void scripts builder (roblox) when i were learning and exploring lua
 - when i began making elaborated scripts and started uploading on Pastebin, you can find my pastebin <a href="https://pastebin.com/u/Liu-2" target="_blank">here</a>
 
 #### Misc (2018)
-- _"random"_ scripts with no category to put in, a little more elaborated than `first scripts`
+- _"random"_ scripts with no category to put in, some of them could be very elaborated, or kinda simple
